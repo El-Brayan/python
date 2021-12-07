@@ -10,4 +10,4 @@ def palindromo(frase):
 
 while True:
     frase =input('ingrese una frase o palabra: ')
-    palindromo()
+    palindromo(frase)
